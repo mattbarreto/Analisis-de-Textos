@@ -14,9 +14,7 @@ setuptools.setup(
     project_urls={
         "Bug Tracker": "",
     },
-
 license="MIT",
 packages=["001"]
 install_requires=["requests"],
-
 )
