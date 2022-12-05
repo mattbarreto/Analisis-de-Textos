@@ -10,11 +10,11 @@ setuptools.setup(
     description="A small example package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/mattbarreto/001.git",
     project_urls={
         "Bug Tracker": "",
     },
 license="MIT",
-packages=["001"]
+packages=["001"],
 install_requires=["requests"],
 )
