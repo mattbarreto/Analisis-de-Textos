@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "001"
+version = "0.1.0"
+description = "Este es un repo de prueba con funciones basicas"
+authors = ["Matias Barreto"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
